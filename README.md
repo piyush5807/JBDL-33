@@ -1,5 +1,7 @@
 # JBDL-33
 
+Lecture Wise Notes: https://drive.google.com/drive/folders/1rOtQ8mCv4qWtGBwIvxo2UkArlZnASgEa
+
 Java
 
 1. Download - https://www.oracle.com/in/java/technologies/javase-downloads.html
