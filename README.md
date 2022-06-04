@@ -1,5 +1,11 @@
 # JBDL-33
 
+Assignments
+
+1. Basic core Java - https://docs.google.com/document/d/1YMig3AVLglOgQVWFmt93ZtdvndiRRfowexAmPpUGeP0/edit
+2. DS Algo in Java - https://docs.google.com/document/d/1gUQSdwxdw6f4DJRO0W92tziih86tTt06fWl7L-V852g/edit
+3. Streams and Lambdas - https://docs.google.com/document/d/1AAlORAmRz-m_aaviZ_k4DgbbbLNzlrn3mV8ayaxgKOg/edit
+
 Lecture Wise Notes: https://drive.google.com/drive/folders/1rOtQ8mCv4qWtGBwIvxo2UkArlZnASgEa
 
 Java
