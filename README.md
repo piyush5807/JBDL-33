@@ -6,6 +6,12 @@ Assignments
 2. DS Algo in Java - https://docs.google.com/document/d/1gUQSdwxdw6f4DJRO0W92tziih86tTt06fWl7L-V852g/edit
 3. Streams and Lambdas - https://docs.google.com/document/d/1AAlORAmRz-m_aaviZ_k4DgbbbLNzlrn3mV8ayaxgKOg/edit
 
+Assignment Solution
+1. Basic core java - 
+2. DS Algo in Java - 
+3. Streams and lambdas - https://drive.google.com/file/d/17JxrPOt0JzIyb-JoVoMAuCu1U773iff0/view?usp=sharing
+   
+
 Lecture Wise Notes: https://drive.google.com/drive/folders/1rOtQ8mCv4qWtGBwIvxo2UkArlZnASgEa
 
 Java
