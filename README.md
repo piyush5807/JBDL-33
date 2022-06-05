@@ -10,6 +10,11 @@ Assignment Solution
 1. Basic core java - https://docs.google.com/document/d/166Zv24JnGhzYvCQN1ND5M2aOahE1B0yoaLwh7ogawco/edit?usp=sharing
 2. DS Algo in Java - https://github.com/piyush5807/JBDL-33/tree/master/DS%20Algo%20Assignment/src/com/example
 3. Streams and lambdas - https://drive.google.com/file/d/17JxrPOt0JzIyb-JoVoMAuCu1U773iff0/view?usp=sharing
+
+Quizes
+1. Streams - https://forms.gle/nenVZ2AdqGpdSzid6
+2. Multi Threading - https://forms.gle/3YqgZk1gdCSm15A36
+3. Maven - https://forms.gle/ZNKZ5keD2yFfeiHU9
    
 
 Lecture Wise Notes: https://drive.google.com/drive/folders/1rOtQ8mCv4qWtGBwIvxo2UkArlZnASgEa
