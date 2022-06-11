@@ -50,3 +50,8 @@ Redis
 Kafka
 1. Download - https://kafka.apache.org/downloads
 2. Resources - https://kafka.apache.org/quickstart
+
+
+Miscellaneous links
+1. Multi Threading - https://www.baeldung.com/java-concurrency
+2. Streams + Lambdas - https://link.medium.com/pwFwKG1Grqb, https://link.medium.com/1tyR6i3Grqb, https://www.youtube.com/watch?v=1OpAgZvYXLQ, https://www.youtube.com/watch?v=F73kB4XZQ4I
