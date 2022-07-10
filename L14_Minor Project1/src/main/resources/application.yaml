@@ -1,0 +1,18 @@
+server:
+  port: 9000
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  datasource:
+    url: jdbc:mysql://localhost:3306/library_jbdl33?createDatabaseIfNotExist=true
+    username: root
+    password:
+book:
+  return:
+    due_date: 14
+
+custom:
+  my_prop: hello_world
