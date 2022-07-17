@@ -1,5 +1,10 @@
 # JBDL-33
 
+Docker slides : https://docs.google.com/presentation/d/1w4UCwwvQJw9vQe1ssCUPP55TblGOl3WhWrS1Q30kODw/edit#
+
+Redis labs / Redis on cloud : https://app.redislabs.com/
+Redis university: https://university.redis.com/
+
 Assignments
 
 1. Basic core Java - https://docs.google.com/document/d/1YMig3AVLglOgQVWFmt93ZtdvndiRRfowexAmPpUGeP0/edit
